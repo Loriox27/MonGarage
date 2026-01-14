@@ -1,0 +1,15 @@
+{
+  "name": "Smart Garage Pro",
+  "short_name": "Garage",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2c3e50",
+  "theme_color": "#1abc9c",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2850/2850343.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
